@@ -1,0 +1,116 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- App title-->
+    <string name="app_name"><xliff:g id="app_name">M.S.Giusto - </xliff:g>App Turistica</string>
+    <!-- Monuments -->
+    <string name="telusiano_title">santa maria in telusiano</string>
+    <string name="telusiano_address">Via Tolomei</string>
+    <string name="telusiano_schedule">Chiusa per lavori</string>
+    <string name="telusiano_description">La chiesa fu ricostruita fra 1513 e 1529 per volere di Nicolò Bonafede da Monte San Giusto (1464–1534), importante personaggio della corte papale e vescovo di Chiusi, come mausoleo della propria famiglia. L’edificio esternamente è in semplici mattoni, con l’unica eccezione di un portale in travertino sormontato dallo stemma del vescovo, e dalle scritte: “S. MARIA DE PIETATE” (Santa Maria della Pietà) e lungo l’architrave: “N [icolaus].BO[na]FIDES EPISCOPVS CLUSINUS FVNDITVS RESTAVRAVIT” (Niccolò vescovo di Chiusi restaurò dalle fondamenta). All’interno si trova la Crocifissione (1529–30 circa), capolavoro del pittore veneziano Lorenzo Lotto, ancora oggi inserita nella sua cornice originale, essa stessa un capolavoro dell’ebanistica rinascimentale. Nel dipinto compare un ritratto di Niccolò Bonafede inginocchiato, mentre contempla lo svenimento di Maria. Notevoli sono anche i resti di affreschi tardo cinquecenteschi attribuibili a Durante Nobili di Caldarola, allievo di Lotto; una copia della Madonna di Trapani di Nino Pisano (databile a fine Seicento); un Vesperbild (o Pietà) del secolo XV, unico collegamento rimasto con la vecchia chiesa medievale.</string>
+    <string name="telusiano_geouri" translatable="false">43.236360, 13.595176</string>
+    <string name="bonafede_title">palazzo bonafede</string>
+    <string name="bonafede_schedule">Aperto tutti i giorni</string>
+    <string name="bonafede_address">Piazza Garibaldi</string>
+    <string name="bonafede_geouri" translatable="false">43.236320, 13.594395</string>
+    <string name="bonafede_description">Fatto costruire come propria dimora gentilizia da Nicolò Bonafede, vescovo di Chiusi, è una delle maggiori architetture del Rinascimento nelle Marche, insieme al palazzo ducale di Urbino. Era destinato a celebrare Bonafede, esaltandone nella città natale il ruolo di mecenate e le cariche politiche e le imprese militari, ricordate nelle molte scritte che si vedono all\'esterno.  Notevoli sulla facciata sono le finestre guelfe ornate con le cifre del Vescovo Nicolò, il fregio con iscrizione (1513) e il portale d’ingresso in pietra d’Istria, celebrante la vittoria di Niccolò sui Malatesta di Rimini, scolpito dall’anconetano Pesimoti (1524). All’interno, oltre al cortile rinascimentale, notevoli sono gli affreschi della cosiddetta \"camera picta\" (detta anche Stanza del Vescovo) al pianterreno e, al piano nobile, la fascia ad affresco con i “Trionfi di Nicolò Bonafede”, frammenti di una decorazione ben più ampia: i dipinti, databili intorno al 1515–1520 sono stati attribuiti al pittore spagnolo Johannes Hispanus. Nella sala consiliare si trova un quadro di Luigi Fontana, del 1869, che raffigura Niccolò Bonafede che visiona il progetto del palazzo.</string>
+    <string name="museo_title">polo museale</string>
+    <string name="museo_address">Via Bonafede</string>
+    <string name="museo_schedule">Aperto tutti i giorni</string>
+    <string name="museo_geouri" translatable="false">43.236320, 13.594395</string>
+    <string name="museo_description">I locali del seminterrato di Palazzo Bonafede che oggi ospitano al loro interno il Polo Museale di Monte San Giusto in origine erano destinati dai conti Bonafede ad uso di cucine, deposito di derrate alimentari, cantina e frantoi. A partire dal 2013 essi accolgono le collezioni municipali, formate da tre distinti nuclei:  – La collezione di disegni antichi di Alessandro Maggiori (1764–1834), comprendente importanti opere databili fra XVI e XVIII secolo; – Il Fondo Carlo Cantalamessa (Donazione Lino e Livia Brillarelli), con opere dello scultore romano di origine marchigiana Carlo Cantalamessa (1909–1982); -  L\' Esposizione Permanente Presepi Artistici; -  La Sala Mostre.</string>
+    <string name="porte_title">porta della sala</string>
+    <string name="porte_description">La porta è orientata a settentrione e conserva ancora molte caratteristiche del suo aspetto originario di Torre Portaia (cioè torre posta a protezione di una porta): è voltata a botte con doppia saracinesca di protezione, caratteristiche che permettono di datare la sua costruzione intorno al 1390. Nel corso dei secoli ha subito modifiche evidenti, come l\'abbattimento del coronamento merlato.</string>
+    <string name="porte_address">Via Circonvallazione</string>
+    <string name="porte_schedule">Orari: visibile liberamente</string>
+    <string name="porte_geouri" translatable="false">43.235740, 13.595574</string>
+    <string name="priori_title">Palazzo dei Priori</string>
+    <string name="priori_description">Costruito tra il 1763 e il 1770 al posto del precedente Palazzo Priorale d’età medievale, è opera dell’architetto lombardo Giovanni Battista Vassalli, sangiustese di adozione, autore anche del rinnovamento della Collegiata. L’edificio fu sede comunale fino ai primi anni del secondo dopoguerra, allorché il Municipio fu trasferito a Palazzo Bonafede.</string>
+    <string name="priori_schedule">Sempre aperto</string>
+    <string name="priori_address">Piazza Aldo Moro</string>
+    <string name="priori_geouri" translatable="false">43.236253, 13.594268</string>
+    <!-- EVENTS -->
+    <string name="carnival_geouri" translatable="false">43.236880, 13.593970</string>
+    <string name="carnival_title">carnevale</string>
+    <string name="clown_title">Clown&amp;Clown Festival</string>
+    <string name="clown_geouri" translatable="false">43.236233, 13.594775</string>
+    <string name="tammuria_title">tammuria</string>
+    <string name="tammuria_geouri" translatable="false">43.236233, 13.594775</string>
+    <string name="spring_festival_title">festa di primavera</string>
+    <string name="spring_festival_geouri" translatable="false">43.236233, 13.594775</string>
+    <string name="carnival_description">Ogni anno, nel giorno di carnevale, le strade di Monte San Giusto si riempiono di bambini ed adulti, in una stupenda giornata di festa tra colori, maschere e carri.</string>
+    <string name="carnival_address">via Macerata</string>
+    <string name="carnival_schedule">Venerdì 18 febbraio 2018 ore 15.00</string>
+    <string name="clown_description">Ormai da 12 anni, dall’ultima domenica di settembre alla prima domenica di ottobre, Monte San Giusto mette in scena il suo "Clown&amp;Clown Festival". Un festival internazionale dedicato alla figura del clown in tutti i suoi aspetti, compreso quello sociale. Il festival da cui parte il progetto di costruzione della Città del Sorriso.</string>
+    <string name="clown_address">tutto il paese</string>
+    <string name="clown_schedule">21 – 28 settembre 2018</string>
+    <string name="spring_festival_address">piazza Garibaldi</string>
+    <string name="spring_festival_schedule">18 – 21 giugno 2018</string>
+    <string name="spring_festival_description">\"Primavera non bussa\", giunta alla terza edizione, è un’occasione per festeggiare il risveglio della natura sulle note della canzone d’autore italiana. Dalle parole di “Un Chimico” di Fabrizio De Andrè, brano contenuto nel suo album “Non al Denaro non all’Amore né al Cielo” e tratto dall’Antologia di Spoon River di Edgar Lee Masters, prende il nome la Rassegna. Per fondere queste due anime dell\'evento, il centro storico di Monte San Giusto fiorirà, Piazza Aldo Moro verrà invasa da: alberi, orti urbani e un manto verde che trasformerà per qualche giorno questo luogo d’incontro e di socializzazione in un giardino.</string>
+    <string name="tammuria_description">Torna anche quest\'anno il Festival di musica salentina nella Città del Sorriso. Nato nel 2008 grazie al forte impegno di Rossano Romagnoli con la collaborazione di Maurizio Nicolì, propone suoni, ritmi e sapori tipici del Salento che si uniscono in due serate che attirano a Monte San Giusto turisti ed appassionati. Appuntamento a venerdì 29 e sabato 30 luglio.</string>
+    <string name="tammuria_schedule">29 – 30 luglio 2018</string>
+    <string name="tammuria_address">piazza Garibaldi</string>
+    <string name="teatrando_title">teatrando</string>
+    <string name="teatrando_description">Anche quest\'anno si rinnova l\'appuntamento con la rassegna di teatro comico nella Città del Sorriso a cura della Mabò Band e con il patrocinio del Comune di Monte San Giusto. Ecco le serate in programma, alle quali si affiancheranno tre domeniche (29 gennaio, 19 febbraio e 12 marzo) di \"Famiglie a teatro\", l\'evento dedicato alle famiglie e, soprattutto, ai bambini.</string>
+    <string name="teatrando_address">Teatro comunale</string>
+    <string name="teatrando_schedule">29 Gennaio, 19 febbraio, 12 marzo 2018</string>
+    <string name="teatrando_geouri" translatable="false">43.236608, 13.595159</string>
+    <!-- HOTELS RESTAURANTS -->
+    <string name="rosa_geouri" translatable="false">43.237738, 13.590681</string>
+    <string name="rosa_title">ristorante la rosa dei venti</string>
+    <string name="rosa_schedule">giorno di chiusura: lunedì</string>
+    <string name="rosa_description">Il ristorante-pizzeria “La Rosa dei Venti” rappresenta un’ottima espressione di struttura a conduzione familiare. Tutto il nostro lavoro fatto di esperienza e passione, è proiettato a soddisfare le aspettative di una clientela scelta ed attenta alla ricerca del calore, di un’accoglienza che esalta le tradizioni e gli antichi sapori della nostra terra. Il ristorante è sempre a disposizione per cene di lavoro, banchetti e su ordinazione prelibati e ricercati piatti a base di pesce fresco. Da non perdere le fantasiose “insalatone” ed i fantastici “piatti unici” fatti dalle mani esperte di cuochi alla continua ricerca di piatti freschi ed innovativi che le tendenze gastronomiche moderne richiedono. Tutte le sere si possono gustare a scelta 100 pizze diverse tra dolci e salate per soddisfare anche i palati più esigenti.</string>
+    <string name="rosa_address">via Macerata, 77\n62015 Monte San Giusto (MC)\nTel. (+39) 0733–530500\nFax. (+39) 0733–530477\ninfo@hotellarosadeiventi.com</string>
+    <string name="country_title">ristorante country giusto</string>
+    <string name="country_geouri" translatable="false">43.227928, 13.589179</string>
+    <string name="country_schedule">sempre aperto</string>
+    <string name="country_description">Country Giusto è la realizzazione di un sogno del suo proprietario: restaurare la vecchia casa in campagna di famiglia in cui ha trascorso i momenti più belli della sua infanzia e poter condividere i suoi ricordi con gli altri. Da qui nasce il suo progetto: la creazione di una casa vacanze, così che i suoi ospiti possano beneficiare della sua bellezza, tranquillità e dello scenario mozzafiato. Il nome Country Giusto racchiude in sé il nome della città in cui la casa vacanze è situata (Monte San Giusto) e il fatto di trovarsi nella posizione giusta: immersa nel verde delle colline marchigiane, con lo sfondo delle montagne in lontananza e il borgo medievale di Monte San Giusto raggiungibile a piedi. La regione Marche è un luogo ideale per passare le vacanze, racchiude in sé il succo di tutta l’Italia. La campagna, le montagne, il mare, l’arte, la storia, la gastronomia e la moda: una realtà unica e straordinaria che merita di essere scoperta, insieme alla naturale cordialità della sua gente.</string>
+    <string name="country_address">via San Giacomo,\n38 Monte San Giusto (MC)\nTel. +39 3282197731\nP.IVA 01639540432\ninfo@countrygiusto.com</string>
+    <string name="noceto_title">il noceto</string>
+    <string name="noceto_geouri" translatable="false">43.247732, 13.576571</string>
+    <string name="noceto_schedule">sempre aperto</string>
+    <string name="noceto_address">Via Fonte Ancona, 28\n62015 - Monte San Giusto Macerata - Italia\nC.F./P.Iva: 01121460438\nTel: (+39) 0733/53274\nCell. +39 329.6086075\nWhatsapp +39 392.2236281\ninfo@agriturismoilnoceto.com</string>
+    <string name="noceto_description">L’agriturismo Il Noceto è situato a Monte San Giusto, nota cittadina calzaturiera che custodisce una pala del pittore Lorenzo Lotto. La struttura è posta su un podere di circa nove ettari, immersa nel verde, contornata da un parco di noci, noccioli, frassini, tigli, siepi di more e biancospino e circondata da un piccolo torrente. Per chi vi soggiorna è una piacevole parentesi di benessere e di tranquillità, che rigenera lo spirito. I profumi della natura, insieme al silenzio sovrano, rendono il posto del tutto esclusivo. Il casolare, recentemente ristrutturato, ha mantenuto le tipiche caratteristiche della casa di campagna marchigiana. “Il Noceto” offre il servizio di pernottamento e di prima colazione; dispone di ampie e confortevoli camere con bagno, arredi tipici, biancheria della nonna, tv in camera. E’ dotato di un accogliente salone di ristoro con camino ove fare le colazioni ed un forno a legna esterno. Gli ospiti possono godere di un ampio giardino e di un boschetto, fare passeggiate immersi nel verde della natura. \t La posizione geografica dell’agriturismo “Il Noceto” lo rende un punto ottimale per organizzare itinerari turistici o di lavoro, la vicinanza con la comodissima superstrada (ss77) permette un facile collegamento dalla Riviera Adriatica ai Monti Sibillini, attraversando città d’arte, laghi, antiche Abbazie, Santuari e località suggestive. Gli ospiti troveranno a disposizione materiale informativo per itinerari culturali ed eno-gastronomici e per visitare i numerosi spacci calzaturieri della zona.</string>
+    <string name="nicoli_title">trattoria nicolì</string>
+    <string name="nicoli_geouri" translatable="false">43.236667, 13.594227</string>
+    <string name="nicoli_description">La nostra cucina unisce il meglio delle eccellenze marchigiane ai gustosi piatti della tradizione salentina, riproposti e rielaborati dalla fantasia, dalla creatività e dal talento del nostro chef. Lavoriamo esclusivamente con prodotti e ingredienti freschi e di alta qualità, per questo il menu viene continuamente rinnovato in modo da valorizzare al massimo le tipicità e le specialità di stagione. A non mancare mai sono la tradizionale pasta fresca fatta in casa (orecchiette, pizzarieddi, tonnarelli), le paste essiccate fornite dalle migliori aziende del territorio (La pasta di Aldo, Pasta Mancini), le nostre fragranti pizze e gli squisiti salumi locali, come il tipico ciauscolo maceratese.</string>
+    <string name="nicoli_address">via Circonvallazione, 208\n62015 Monte San Giusto (MC)\nTel. 0733 539156\ntrattorianicoli@alice.it</string>
+    <string name="nicoli_schedule">giorno di chiusura: giovedì pomeriggio</string>
+    <!-- SHOPPING -->
+    <string name="baiocco_title">ottica baiocco</string>
+    <string name="baiocco_geouri" translatable="false">43.236461, 13.594084</string>
+    <string name="baiocco_schedule">giorno di chiusura: lunedì mattino</string>
+    <string name="baiocco_description">Da Ottica Baiocco troverete una vasta gamma di occhiali da vista e da sole delle migliori marche, occhiali alla moda, classici e moderni; eseguiamo esami optometrici, con cui valutare l\'efficienza della vostra vista ed eventualmente fornirvi le giuste lenti da vista e lenti a contatto per correggere i difetti visivi. Personale altamente qualificato ed esperto, vi aspetta per fornirvi tutta la consulenza necessaria nella scelta del giusto occhiale per le vostre esigenze. Se state cercando un occhiale o una particolare montatura, venite da Ottica Baiocco, abbiamo occhiali da sole e da vista delle migliori marche. Venite a scoprirne di più sulla gamma di prodotti disponibili.</string>
+    <string name="baiocco_address">Via Circonvallazione, 194\n62015 Monte San Giusto (MC)\nTel. (+39) 0733 539717\nFax. (+39) 0733–530477</string>
+    <string name="rondinella_title">rondinella shoes</string>
+    <string name="rondinella_geouri" translatable="false">43.258320, 13.584322</string>
+    <string name="rondinella_schedule">Dal lunedì al venerdi dalle 9:00 alle 20:00</string>
+    <string name="rondinella_description">La storia di Rondinella inizia nel 1936, nel primo laboratorio di Alfredo e Lola Romagnoli. Le loro calzature sono subito apprezzate per la qualità e lo stile. I clienti bisogna però andarseli a cercare, soprattutto nei paesi vicini a Monte San Giusto. Molti chilometri in bicicletta, per ricevere dalla vendita un po’ di soldi e un po’ di generi alimentari. Nel 1937 nasce Franco. Figlio unico, al quale il padre non consiglia di fare il calzolaio perché, anche se è un bellissimo mestiere, “ti prende tutta la vita; meglio la scuola”. Ma a Franco quel mestiere piace. Da piccolo era un gioco, poi a dodici anni diventa un lavoro, che impara sotto la guida del nonno.Il laboratorio ha bisogno di spazio. Nel 1972 Franco e sua moglie Pina aprono una piccola azienda. Le calzature sono firmate Romagnoli Rondinella. Nel 2004 si inaugura l\’attuale sede. \L’azienda è diretta da Franco e dai figli Alfredo e Alfio Romagnoli. Il nome delle calzature oggi è Rondinella, un marchio di alta qualità.</string>
+    <string name="rondinella_address">Via Bore Chienti, 14\n62015 Monte San Giusto (MC)\nTel. (+39) 0733 1840417\nFax. (+39) 0733 53521</string>
+    <string name="joelle_title">parrucchieria joelle</string>
+    <string name="joelle_geouri" translatable="false">43.237548, 13.593357</string>
+    <string name="joelle_schedule">giorno di chiusura: lunedì</string>
+    <string name="joelle_description">Fiorella e Riccardo sono stimati da oltre 20 anni per la loro esperienza, qualità e servizio al cliente. Tutta l\'equipe è sempre alla ricerca di nuovi stili e delle ultime tendenze, per soddisfare al meglio la propria clientela. Londra, Barcellona, Milano sono per noi mete abituali per svolgere corsi all\'avanguardia sui trend futuri. Abbiamo instaurato molteplici situazioni con il mondo dello spettacolo e della moda. Nel nostro salone potrai trovare l\'esclusivo metodo di colorazione del capello Inspire di Wella dalle infinite combinazioni; il sistema SP Sistem Professional, per la cura del capello, nonchè l\'innovativa tecnica di stiraggio definitivo del capello. Per offrire un servizio migliore ai clienti è consigliato l\'appuntamento. Per saperne di veniteci a trovare e scoprirete tutto quello che possiamo fare per Voi.</string>
+    <string name="joelle_address">Via Monti Sala, 14\n62015 Monte San Giusto (MC)\nTel. (+39) 0733 531257</string>
+    <string name="ciampechini_title">gioielleria ciampechini</string>
+    <string name="ciampechini_geouri" translatable="false">43.236895, 13.594524</string>
+    <string name="ciampechini_schedule">giorno di chiusura: lunedì</string>
+    <string name="ciampechini_description">Creatività, artigianalità e originalità sono gli elementi che costituiscono il DNA della gioielleria Ciampechini, simbolo della passione per l\’arte della gioielleria da tre generazioni familiari. Tutti i gioielli, realizzati interamente a mano e con la massima cura per i dettagli, sono veri e propri capolavori di arte orafa, espressione di una tradizione e di un\’attenzione al design del gioiello che da sempre caratterizzano le esclusive e lussuose collezioni della gioielleria Damiani. I gioielli delle collezioni Damiani sono tutte creazioni uniche ed esclusive, capaci di unire il fascino della gioielleria italiana con l\’inconfondibile gusto Ciampechini sempre moderno ed attuale. Dall’anello in oro all\’elegante solitario con diamante, dal gioiello con pietre preziose all\’orologio senza tempo, il mondo della gioielleria Ciampechini è sempre in grado di donare un\’emozione indimenticabile.</string>
+    <string name="ciampechini_address">Corso della costituzione, 18\n62015 Monte San Giusto (MC)\nTel. (+39) 0733 53967</string>
+    <string name="torresi_title">french-co di alessandra torresi</string>
+    <string name="torresi_geouri" translatable="false">43.237158, 13.593671</string>
+    <string name="torresi_schedule">giorno di chiusura: lunedì</string>
+    <string name="torresi_description">L\'inverno 2018 è ricco di colore e voglia di vivere, proprio per questo French-Co ha pensato di proporre una linea di abbigliamento donna davvero ampia e versatile, adatta ad ogni occasione! Tantissimi i vestiti: puoi scegliere fra una vasta gamma di prodotti; dalle canotte alle t-shirts, dai cardigan alle felpe c\'è tutto quello che ti occorre per rinnovare il tuo guardaroba ed essere sempre all\'ultima moda. Nella collezione donna, trovi per esempio i bomber in nylon o i giubbini in pelle sintetica, ma anche jeans lunghi nei lavaggi chiari, medi o scuri, e vestitini e minigonne per avere il look giusto durante tutto il giorno.L\'abbigliamento donna  veste tutti i gusti, e propone un\'ampia scelta di capi sempre attenti alla linea e alle nuove tendenze. French-Co pensa a tutto, proponendo una vasta scelta anche di accessori, come le pashmine colorate, le cinture e le borse, per avere sempre il particolare adatto alle tue occasioni speciali. Tra i vestiti trovi anche le comode felpe, e un\'ampia scelta di pantaloni, ma anche gonne e vestiti per avere sempre un look trendy e giovane. Da French-Co trovi il capo giusto ed economico che fa al caso tuo.</string>
+    <string name="torresi_address">Piazzale Mazzini 7\n62015 Monte San Giusto (MC)\nTel. (+39) 0733 865467</string>
+    <!-- TAB LABELS -->
+    <string name="event_tab">eventi</string>
+    <string name="places_tab">luoghi</string>
+    <string name="shopping_tab">shopping</string>
+    <string name="hotel_restaurants_tab">hotel e ristoranti</string>
+    <!-- OTHER LABELS -->
+    <string name="city_name" translatable="false">M.S.Giusto</string>
+    <string name="bar_label" translatable="false">%s - %s</string>
+    <string name="learn_more">Scopri di più…</string>
+    <!-- CONTENTS -->
+    <string name="content_location_icon">indirizzo</string>
+    <string name="content_location_schedule">orari</string>
+    <string name="image_of">immagine di %s</string>
+</resources>
